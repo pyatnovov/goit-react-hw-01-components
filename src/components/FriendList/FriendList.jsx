@@ -1,4 +1,4 @@
-import { FriendListItem } from 'components/FriendListItem';
+import { FriendListItem } from 'components/FriendListItem/FriendListItem';
 
 export const FriendList = ({ friends }) => {
   return  <ul className="friend-list">
