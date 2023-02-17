@@ -25,7 +25,7 @@ export const Item = styled.li`
 export const ItemQuantity = styled.span`
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
-    color:red;
+    color:brown;
     
 `
 export const Description = styled.div`
