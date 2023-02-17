@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const List = styled.div`
     padding: 20px;
     border: 5px solid black;
-    background-color: #148888;
+    background-color: #808080;
     color:#000000;
 `;
 export const Icon = styled.img`
