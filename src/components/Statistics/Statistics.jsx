@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import { Section, List, Item, ItemInfo, Title } from './Statistics.styled';
-import { getRandomHexColor } from 'components/utils/GetRandomColor';
+import { getRandomHexColor } from 'utils/GetRandomColor';
 export const Statistics = ({ title, stats }) => {
   return (
     <Section className="statistics">
